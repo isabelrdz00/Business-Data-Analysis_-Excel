@@ -1,4 +1,4 @@
-## Data Analysis Project: Cleaning, Analyzing, and Visualizing a Business Dataset
+## Cleaning, Analyzing, and Visualizing a Business Dataset
 ### Overview
 - In this project, I took a large, unformatted dataset and transformed it into a meaningful and actionable report through three key stages: data cleaning, data analysis, and data visualization. The project simulates a real-world scenario where a manager needs insights from a messy dataset, and I provide the necessary steps to clean, analyze, and visualize the data using Excel and Power Query.
 
